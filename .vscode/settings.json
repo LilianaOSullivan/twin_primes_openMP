@@ -1,0 +1,11 @@
+{
+    "python.linting.enabled": true,
+    "cSpell.words": [
+        "Doxyfile",
+        "Doxygen",
+        "Kehoe",
+        "O'Sullivan",
+        "libomp",
+        "llvm"
+    ]
+}
